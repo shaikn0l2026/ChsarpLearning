@@ -42,8 +42,14 @@ Session 19: Jagged Arrays cont... String[] args in Main method , cheat sheet for
 
 ## Object Oriented Programming C# Topics
 
-Session 20: How to program in C# using Visual Studio IDE Contd.., Start up object, Project, Namespace, Class, Top Level statements in C# 9.0 onwards , Global Usings [⭐⭐⭐⭐⭐]
+Session 20: How to program in C# using Visual Studio IDE Contd.., `Start up object`, `Project`, `Namespace`, `Class`, `Top Level statements` in C# 9.0 onwards , `Global Usings` [⭐⭐⭐⭐⭐]
 
-Session 21: OOPs concepts , Fields, Methods, Static vs Non-Static methods, Value returning methods, Non-value returning methods, Methods with parameters, Method without Parameters [⭐⭐⭐⭐⭐]
+Session 21: OOPs concepts , Inside a class you have members (Fields, Methods, Constructors , Finalizers, Properties, Indexers , Events, Destructors), `Class:Methods`, `Static vs Non-Static methods`, `Value returning methods`, `Non-value returning methods`, `Methods with parameters`, `Method without Parameters` [⭐⭐⭐⭐⭐]
 
-Session 22: 
+Session 22: Class: Methods , `Consume methods of one class into another class` (two ways: Inherit , `Object creation`), How to do Debugging of code in VS IDE [⭐⭐⭐⭐⭐]
+
+Session 23: Class: Methods How to use Code files in a project in VS IDE, `Userdefined` return types to Methods, Defining multiple classes in a file, `Parameters` passed to the method `Input` `Ouput` `In/Out`  [⭐⭐⭐⭐⭐] 
+
+Session 24: Class: Methods , Method Parameters contd.., Input parameters for methods, How to pass any number of parameters to method(clue: arrays), `params` keyword in C# , `Optional parameters` in C# , Variable of Class, Instance of a Class, Reference of a Class [⭐⭐⭐⭐⭐] 
+
+Session 25: 
