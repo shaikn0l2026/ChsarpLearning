@@ -134,9 +134,17 @@ Common pitfalls
 
 Terminology
 -----------
-- Variable of a class: a variable declaration (e.g., `Person p;`) that holds a reference but does not allocate the instance.
-- Instance of a class: the actual object allocated with `new` that occupies memory and whose members can be accessed.
-- Reference of a class: when we initialize of a class by using an existing instance of that class, the variable holds a reference to that instance.
+- **Variable of a class:** A copy of a class which is not initialized is called a variable of a class. Variable declaration (e.g., `Person p;`) that holds a reference but does not allocate the instance.
+
+By using variable of a class we can not access any members of that class 
+
+- **Instance of a class**: A copy of a class which is initialized using `new` is called an instance of a class.the actual object allocated with `new` that occupies memory and whose members can be accessed.
+
+By using instance of a class we can access members of that class.
+
+- **Reference of a class**: A copy of a class which is initialized using an existing instance of that class is called a reference of a class.when we initialize of a class by using an existing instance of that class, the variable holds a reference to that instance.
+
+By using reference of a class we can access members of that class.
 
 Simple example:
 
